@@ -15,7 +15,7 @@ async function mapImageList(){
 const memesObject = [
   {
   "name": "chapolin" ,
-  "path": "pictures/chapolin.jpg"
+  "path": "./pictures/chapolin.jpg"
     },
     {
       "name": "chloe" ,
